@@ -1,4 +1,4 @@
-# Job Application Tracker
+# Job Application Tracker (https://pramodnaik77.github.io/job-application-tracker/)
 
 A zero-backend personal job application tracker.
 
