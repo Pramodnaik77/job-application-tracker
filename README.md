@@ -1,7 +1,7 @@
-# Job Application Tracker (https://pramodnaik77.github.io/job-application-tracker/)
+# Job Application Tracker 
 
 A zero-backend personal job application tracker.
-
+(https://pramodnaik77.github.io/job-application-tracker/)
 ## Features
 - Applications: company, role, job link, date applied, status, location, work type, salary, source, follow-up date, notes
 - Statuses: Wishlist, Applied, OA, Screening, Interview, Offer, Rejected, Withdrawn
